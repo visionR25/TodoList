@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=LinkedLinearList
+comment0.text=\n\ class\ Todo\ list\ -\ This\ class\ is\ to\ be\ used\ to\ make\ a\ shopping\ list\ that\ specifies\n\ name\ of\ the\ item\ and\ the\ number\ of\ items\ to\ get\n\n\ @Rowland\ Ndoma-Egba\n\ @version\ 1\n
+comment1.params=
+comment1.target=LinkedLinearList()
+comment2.params=theObject\ index
+comment2.target=void\ add(java.lang.Object,\ int)
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment4.params=
+comment4.target=int\ size()
+comment5.params=index
+comment5.target=void\ checkIndex(int)
+comment6.params=index
+comment6.target=java.lang.Object\ get(int)
+comment7.params=theObject
+comment7.target=int\ indexOf(java.lang.Object)
+comment8.params=index
+comment8.target=java.lang.Object\ remove(int)
+comment9.params=
+comment9.target=java.lang.String\ outputList()
+numComments=10
